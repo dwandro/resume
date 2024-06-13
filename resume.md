@@ -30,11 +30,11 @@ Dedicated IT professional with over 10 years of industry experience and demonstr
 
 ## Technical Proficiencies
 
-- **Platforms** - VMware Tanzu Advanced, Docker Enterprise, vSphere, Ubuntu 10.04+, RHEL 6+, macOS, Windows
-- **Monitoring** - Icinga2, Telegraf, InfluxDB, Grafana, PagerDuty, Graphite, Prometheus, Dynatrace, Elastic, Fluentd, Rsyslog
-- **DevOps Tools** - Kubernetes, FluxCD, Kustomize, Helm, Docker, Puppet, Ansible/AWX, Jenkins, JFrog, LitmusChaos
+- **Platforms** - Amazon Web Services (AWS), Kubernetes, VMware Tanzu, Docker Enterprise, vSphere, Ubuntu 10.04+, RHEL 6+, macOS, Windows
+- **Monitoring** - DataDog, AppDynamics, Grafana, Prometheus/Mimir, OpenSearch/Elastic, Dynatrace, Icinga2, InfluxDB, PagerDuty, Graphite, Fluentd
+- **DevOps Tools** - Terraform, GitHub Actions, Drone, FluxCD, Kustomize, Helm, Docker, Puppet, Ansible/AWX, Jenkins, JFrog
 - **Web Services** - Istio, Tomcat, Apache, NGINX, HAProxy, Keepalived, PM2, Uvicorn
-- **Development** - Python (primary), Bash, Ruby, JavaScript, Groovy
+- **Development** - Python (primary), JavaScript/TypeScript, Golang (Go), Bash, Ruby, Groovy
 
 ## Professional Experience
 
@@ -89,7 +89,7 @@ Responsible for the implementation and support of Linux infrastructure for new a
 - Puppetized new internal DNS/DHCP infrastructure spanning two datacenters and multiple security zones.
 - Designed and implemented a new CI/CD environment with Artifactory Pro, SonarQube, Jenkins, and Dockerized Jenkins agents.
 
-<p style="page-break-after: always;">&nbsp;</p>
+<!-- <p style="page-break-after: always;">&nbsp;</p> -->
 
 #### Senior System Administrator <date>2016-10 - 2017-06</date>
 
@@ -114,6 +114,8 @@ Responsible for all aspects of Deere’s Mac and Linux desktop environments.
 - Developed the first fully automated RHEL Desktop/Workstation provisioning process for Deere.
 - Assisted with the completion of the ISG Ubuntu project, working with the Virtual Dynasty team to build a compliant Linux development platform.
 
+<!--
+
 --
 
 ### Stefanini, Inc (John Deere) - Davenport, IA
@@ -134,7 +136,7 @@ Promoted to Tier 2 deskside support for John Deere Waterloo Works.
 #### Deployment Technician <date>2010-12 – 2011-07</date>
 
 Hired to setup and deploy computer equipment at John Deere Waterloo Works.
-
+-->
 ## Education & Credentials
 
 ### Education
