@@ -1,19 +1,18 @@
-<!-- markdownlint-disable MD033 MD024-->
+<!-- markdownlint-disable MD024 MD033 MD041 -->
 <style>
-date { float: right; }
-h1 { font-size: 24px; }
-h2 { font-size: 18px; }
-h3 { font-size: 16px; }
-h4 { font-size: 14px; }
-h5 { font-size: 12px; }
-li { font-size: 12px; }
-p { font-size: 12px;  }
-contact {
-  float: right;
-  font-size: 12px;
-  text-align: right;
-}
+  date { float: right; }
+  h1 { font-size: 24px; }
+  h2 { font-size: 18px; }
+  h3 { font-size: 16px; }
+  h4 { font-size: 14px; }
+  h5, li, p { font-size: 12px; }
+  contact {
+    float: right;
+    font-size: 12px;
+    text-align: right;
+  }
 </style>
+
 # Dakota Wandro <contact>dakotawan@gmail.com<br/>(319) 504-0643</contact>
 
 --
@@ -23,26 +22,42 @@ Dedicated IT professional with over 10 years of industry experience and demonstr
 ## Areas of Expertise
 
 - Site Reliability Engineering
-- Continous Integration/Continuous Delivery
+- Continuous Integration/Continuous Delivery
 - Configuration Management
-- Change/Release Orchestration
 - DevOps Culture, Practices, and Tools
+- Technical Leadership
 
 ## Technical Proficiencies
 
 - **Platforms** - Amazon Web Services (AWS), Kubernetes, VMware Tanzu, Docker Enterprise, vSphere, Ubuntu 10.04+, RHEL 6+, macOS, Windows
-- **Monitoring** - DataDog, AppDynamics, Grafana, Prometheus/Mimir, OpenSearch/Elastic, Dynatrace, Icinga2, InfluxDB, PagerDuty, Graphite, Fluentd
+- **Monitoring** - CloudWatch, DataDog, AppDynamics, Grafana, Prometheus, Elastic, Dynatrace, Icinga2, InfluxDB, PagerDuty, Graphite, Fluentd
 - **DevOps Tools** - Terraform, GitHub Actions, Drone, FluxCD, Kustomize, Helm, Docker, Puppet, Ansible/AWX, Jenkins, JFrog
 - **Web Services** - Istio, Tomcat, Apache, NGINX, HAProxy, Keepalived, PM2, Uvicorn
 - **Development** - Python (primary), JavaScript/TypeScript, Golang (Go), Bash, Ruby, Groovy
 
+<p style="page-break-after: always;">&nbsp;</p> 
+
 ## Professional Experience
+
+### John Deere - Moline, IL
+
+#### Staff Software Engineer, Site Reliability Engineering <date>2022-08 - Present</date>
+
+Serves as a technical leader for a team of engineers. Creates self-service solutions for product teams to improve observability and reliability in their products.
+
+##### Key Achievements
+
+- Created an event-driven solution for aggregating product uptime info from disparate monitoring systems into a single dashboard.
+- Produced Terraform modules and Ansible playbooks to automate the provisioning of Chaos Engineering tools for GameDay scenarios.
+- Setup prebuilt Devcontainer image to simplify onboarding to SRE team projects and enable fast driver switching when pairing/mobbing.
+
+--
 
 ### O'Reilly Auto Parts - Springfield, MO
 
 #### Senior Site Reliability Engineer <date>2022-02 - 2022-08</date>
 
-Works with infrastructure, InfoSec, QA, and development teams to improve security, observability, and availability of production systems.
+Worked with infrastructure, InfoSec, QA, and development teams to improve security, observability, and availability of production systems.
 
 ##### Key Achievements
 
@@ -51,11 +66,10 @@ Works with infrastructure, InfoSec, QA, and development teams to improve securit
 
 #### System Architect <date>2020-08 - 2022-02</date>
 
-Served as the technical leader for the Linux infrastructure team. Trained Linux team members on processes and technologies.
+Served as the technical leader for the Linux infrastructure team. Trained engineers on processes and technologies.
 
 ##### Key Achievements
 
-- Setup Elastic stack for aggregating logs from a Kubernetes environment.
 - Designed and implemented a Kubernetes cluster management strategy using FluxCD on the VMware Tanzu Advanced platform.
 - Setup Puppet 6 production infrastructure for Ubuntu 18.04+ and RHEL 8+ systems.
 - Deployed InfluxDB and Grafana via Ansible for monitoring nodes managed by Puppet 6.
@@ -69,7 +83,7 @@ Oversaw the completion of infrastructure projects. Coached a team of engineers, 
 - Led team in the deployment and support of new VPN servers at the onset of the COVID-19 pandemic.
 - Enabled the Network Operations Center team to restart critical collaboration services to reduce MTTR and business impact.
 - Transitioned incoming support requests to
-Jira to improve developer experience and customer satisfaction.
+  Jira to improve developer experience and customer satisfaction.
 
 #### Senior System Engineer <date>2018-12 - 2019-12</date>
 
@@ -100,10 +114,11 @@ Responsible for the installation, configuration, and maintenance of Linux server
 - Setup Dynatrace AppMon 6.5 test and prod infrastructure and migrated agents from the old stacks.
 - Performed major upgrade of O'Reilly Auto's business intelligence software suite.
 
---
+<p style="page-break-before: always;">&nbsp;</p>
+
+-- 
 
 ### Sayers (John Deere) - Moline, IL
-
 
 #### Service Delivery Engineer <date>2013-04 - 2016-10</date>
 
@@ -123,7 +138,7 @@ Responsible for all aspects of Deere’s Mac and Linux desktop environments.
 
 #### Systems Solutions Technician <date>2012-08 - 2013-04</date>
 
-Promoted to Enterprise Desktop Services team. Developed and certified Windows software installation scripts for deployment using JDSRS and SCCM.
+Developed and certified Windows software installation scripts for deployment using SCCM.
 
 ##### Key Achievements
 
@@ -137,7 +152,9 @@ Promoted to Tier 2 deskside support for John Deere Waterloo Works.
 #### Deployment Technician <date>2010-12 – 2011-07</date>
 
 Hired to setup and deploy computer equipment at John Deere Waterloo Works.
+
 -->
+
 ## Education & Credentials
 
 ### Education
@@ -156,11 +173,6 @@ Field of study: General Education
 - Puppet Fundamentals - 2012-11
 - CompTIA A+ Certified Professional IT Technician - 2009-05
 - CompTIA A+ Certified Professional Depot Technician - 2009-05
-
-### Awards
-
-- Shamrock award - O'Reilly Auto Parts, 2021
-- Great performer award - Stefanini, Inc., 2012
 
 ### References
 
