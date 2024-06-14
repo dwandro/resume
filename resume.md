@@ -40,13 +40,13 @@ Dedicated IT professional with over 10 years of industry experience and demonstr
 
 ### O'Reilly Auto Parts - Springfield, MO
 
-#### Senior Site Reliability Engineer <date>2022-02 - Present</date>
+#### Senior Site Reliability Engineer <date>2022-02 - 2022-08</date>
 
 Works with infrastructure, InfoSec, QA, and development teams to improve security, observability, and availability of production systems.
 
 ##### Key Achievements
 
-- Served as the technical lead for the Kubernetes migration project, and completed the Kubernetes migration of a multi-billion dollar eCommerce application.
+- Served as the technical lead to complete the Kubernetes migration of a multi-billion dollar eCommerce application.
 - Setup dashboards and alerting for Kubernetes environment to improve incident response processes.
 
 #### System Architect <date>2020-08 - 2022-02</date>
@@ -67,9 +67,9 @@ Oversaw the completion of infrastructure projects. Coached a team of engineers, 
 ##### Key Achievements
 
 - Led team in the deployment and support of new VPN servers at the onset of the COVID-19 pandemic.
-- Enabled the Network Operations Center team to restart Mattermost, Jira, and Confluence, to improve uptime and reduce MTTR for outages and impairments of these services.
-- Established a Jira project to track the team's project tasks. Transitioned incoming developer requests into
-Jira. This enhanced the developer teams' visibility and improved customer statisfaction.
+- Enabled the Network Operations Center team to restart critical collaboration services to reduce MTTR and business impact.
+- Transitioned incoming support requests to
+Jira to improve developer experience and customer satisfaction.
 
 #### Senior System Engineer <date>2018-12 - 2019-12</date>
 
@@ -78,7 +78,7 @@ Responsible for performing System Engineer duties, overseeing engineering projec
 ##### Key Achievements
 
 - Setup Bitbucket Datacenter infrastructure via Puppet.
-- Setup a production DR environment for www.oreillyauto.com in Kubernetes using Docker Enterprise.
+- Setup a production DR environment for oreillyauto.com in Kubernetes using Docker Enterprise.
 
 #### System Engineer <date>2017-06 - 2018-12</date>
 
@@ -111,8 +111,9 @@ Responsible for all aspects of Deere’s Mac and Linux desktop environments.
 
 ##### Key Achievements
 
+- Developed a self-service solution for resolving and avoiding account lockouts for Mac users, resulting in a 50% reduction in Tier 3 support escalations.
+- Reduced lead time for Mac computer deployments from one month to one week.
 - Developed the first fully automated RHEL Desktop/Workstation provisioning process for Deere.
-- Assisted with the completion of the ISG Ubuntu project, working with the Virtual Dynasty team to build a compliant Linux development platform.
 
 <!--
 
