@@ -33,7 +33,7 @@ Dedicated IT professional with over 10 years of industry experience and demonstr
 - **Monitoring** - CloudWatch, DataDog, AppDynamics, Grafana, Prometheus, Elastic, Dynatrace, Icinga2, InfluxDB, PagerDuty, Graphite, Fluentd
 - **DevOps Tools** - Terraform, GitHub Actions, Drone, FluxCD, Kustomize, Helm, Docker, Puppet, Ansible/AWX, Jenkins, JFrog
 - **Web Services** - Istio, Tomcat, Apache, NGINX, HAProxy, Keepalived, PM2, Uvicorn
-- **Development** - Python (primary), JavaScript/TypeScript, Golang (Go), Bash, Ruby, Groovy
+- **Development** - Python (primary), JavaScript/TypeScript, Golang (Go), Bash, Ruby, Groovy, Kotlin
 
 <p style="page-break-after: always;">&nbsp;</p> 
 
